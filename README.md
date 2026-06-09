@@ -1,1 +1,1 @@
-# test-bildit
+# Dummy e-commerce website-bildit
